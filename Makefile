@@ -1,5 +1,5 @@
 
-OBJECTS = loader.o drivers/io.o drivers/frame_buffer.o drivers/serial_port.o segmentation/gdt.o segmentation/memory_segments.o kmain.o
+OBJECTS = loader.o drivers/io.o drivers/frame_buffer.o drivers/serial_port.o segmentation/gdt.o segmentation/memory_segments.o interrupts/idt.o interrupts/interrupt_handlers.o interrupts/interrupts.o interrupts/keyboard.o interrupts/pic.o kmain.o
     CC = gcc
     CFLAGS = -m32 -nostdlib -nostdinc -fno-builtin -fno-stack-protector \
              -nostartfiles -nodefaultlibs -Wall -Wextra -Werror -c
