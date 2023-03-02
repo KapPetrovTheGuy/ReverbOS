@@ -16,7 +16,7 @@ Why Not? Its Fun!
 # TODO LIST
 1. Hello World - DONE!
 2. Read from the hard disk - NOT DONE
-3. Own Interrupts In Real Mode - NOT DONE
+3. Implement C And Protected Mode - NOT DONE
 4. GDT And IDT - NOT DONE
 
 Adding more to list soon!
