@@ -15,7 +15,7 @@ Why Not? Its Fun!
 
 # TODO LIST
 1. Hello World - DONE!
-2. Read from the hard disk - NOT DONE
+2. Read from the hard disk - DONE
 3. Implement C And Protected Mode - NOT DONE
 4. GDT And IDT - NOT DONE
 
