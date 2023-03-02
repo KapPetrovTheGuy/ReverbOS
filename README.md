@@ -2,7 +2,7 @@
 An Open-Source 32-Bit CLI Mode Operating System.
 
 # About / Features
-Nothing literally for now. Only a string printed to the screen.
+Nothing literally for now.
 
 # Why Write This?
 Why Not? Its Fun!
