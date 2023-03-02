@@ -17,7 +17,7 @@ Why Not? Its Fun!
 1. Hello World - DONE!
 2. Read from the hard disk - DONE!
 3. Protected Mode - DONE!
-4. Actual Kernel - NOT DONE
+4. Actual Kernel - DONE!
 5. Implement C - NOT DONE
 6. GDT And IDT - NOT DONE
 
